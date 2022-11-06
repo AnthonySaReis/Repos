@@ -9,6 +9,8 @@ Here are the technologies used in this project.
 * react-router-dom
 * axios
 * react-icons
+* styled-components
+
 
 ## Services Used
 * Github
